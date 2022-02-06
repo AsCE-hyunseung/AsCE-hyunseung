@@ -1,4 +1,4 @@
-# Hello, I'm backend engineer Hyunseung.
+# Hello, I'm Hyunseung.
 - I live a pleasant life in pursuit of new knowledge.
 - I'm crazy about fashion👕 and weight training🏋️
 
