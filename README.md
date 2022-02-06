@@ -14,7 +14,7 @@
 
 ### Experience
 
-- <img src=https://user-images.githubusercontent.com/42690640/152671545-061bffee-4cf1-493e-a5ab-4b438c12a815.png style="width: 20px; height: 20px;">  Kakao Style, PIM System Team (2022.02 ~)
+- <img src=https://user-images.githubusercontent.com/42690640/152672062-9a58e682-bbbe-4fdd-9d78-db5963575a06.png style="width: 20px; height: 20px;">  Kakao Style, PIM System Team (2022.02 ~)
 - <img src=https://user-images.githubusercontent.com/42690640/152671545-061bffee-4cf1-493e-a5ab-4b438c12a815.png style="width: 20px; height: 20px;">  Kakao Style, POSTY System Team (2021.06 ~ 2022.01)
 - 💍 Bejewel, Web Development Team (2019.12 ~ 2021.06)
 
