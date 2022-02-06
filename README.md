@@ -11,7 +11,6 @@
 
 - 🌱 I’m currently learning `Kotlin`, `Spring`
 - 😃 I live a pleasant life in pursuit of new knowledge.
-- 🥇 I majored in Computer science
 
 ### Experience
 
