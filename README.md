@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+ [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/AsCEhyunseung)](https://www.facebook.com/AsCEhyunseung)
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AsCE-hyunseung)](https://github.com/anuraghazra/github-readme-stats)
+	
+  
