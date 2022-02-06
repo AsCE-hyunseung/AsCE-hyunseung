@@ -17,12 +17,12 @@
 
 - 🐤 Kakao Style, PIM System Team (2022.02 ~)
 - 🐤 Kakao Style, POSTY System Team (2021.06 ~ 2022.01)
-- 🐣 Bejewel, Web Develop Team (2019.12 ~ 2021.06)
+- 🐣 Bejewel, Web Development Team (2019.12 ~ 2021.06)
 
 ### What I Like
 
-- 👕 shopping
-- 🏋️ weight training
+- 👕 Shopping
+- 🏋️ Weight Training
 
 ### Tech Stack
 
