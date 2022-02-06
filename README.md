@@ -1,6 +1,7 @@
 # Hello, I'm Hyunseung.
 
 [![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](https://asce-hyunseung.tistory.com/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%ED%98%84%EC%8A%B9-%EC%9D%B4-98449a176/)](https://www.linkedin.com/in/%ED%98%84%EC%8A%B9-%EC%9D%B4-98449a176/)
 [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat&logo=facebook&logoColor=white&link=https://www.facebook.com/AsCEhyunseung)](https://www.facebook.com/AsCEhyunseung)
 [![Instagram Badge](http://img.shields.io/badge/-Instagram-pink?style=flat&logo=Instagram&link=https://instagram.com/asce_hyunseungg)](https://instagram.com/asce_hyunseungg)
 
